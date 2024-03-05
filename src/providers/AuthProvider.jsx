@@ -1,4 +1,3 @@
-import React from 'react';
 import { AuthContext } from '../contexts/AuthContext';
 import { useReducer } from 'react';
 import { AuthReducer } from '../reducers/AuthReducer';
